@@ -1,4 +1,4 @@
-# Interplanetary Filesyste
+# Interplanetary Filesystem
 
 ## Problem: Inefficiency
 * Distributed servers to download documentation
@@ -19,4 +19,4 @@
 * Failure Tolerant
 
 ## Tools to Get Started
-* (IPFS Desktop)[https://github.com/ipfs-shipyard/ipfs-desktop] to store files 
+* [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop) to store files 
